@@ -6,6 +6,7 @@ It also won't be changes in the future. I decided to keep this repo unchanges to
 
 The project was done as part of a GUI (Graphical User Interface) Java Course during my University studies.
 I recieved the highest mark possible for this project together with distinctions.
+Apart from all necessary functionality, I coded additional tools for querying local files which has earned me the ealier mentioned distintions.
 
 Functionality:
 - managing complexes of apartment buildings (each complex can have multiple apartment buildings, each building multiple flats)
@@ -25,4 +26,8 @@ Main focus was put on:
 - generic types
 - custom data structures
 - multithreading
+
+If I were to revisit this project again I would:
+- definitelly work on better code clarity. I would add extensive comments and group certain classes further.
+
 
