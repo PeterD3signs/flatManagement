@@ -1,0 +1,271 @@
+STATE OF SUBDIVISIONS AS OF 1.1.2000:
+
+-> SUBDIVISION #0, Grazyna:
+		* Block of flats #0, Kazimierz:
+			-Apartment 0-0-3:
+				volume: 200.0, tenant PESEL: 33333333333 (index on people list: 3);
+				beginning of rent: 1.1.2000, end of rent: 1.4.2001;
+				No co-tenants.
+			-Apartment 0-0-1:
+				volume: 245.0, tenant PESEL: 11111111111 (index on people list: 1);
+				beginning of rent: 1.1.2000, end of rent: 1.2.2000;
+				Co-tenants:
+				66666666666 (index on people list: 6)
+			-Apartment 0-0-4:
+				volume: 280.0, tenant PESEL: 44444444444 (index on people list: 4);
+				beginning of rent: 1.1.2000, end of rent: 1.8.2002;
+				No co-tenants.
+			-Apartment 0-0-2:
+				volume: 315.0, tenant PESEL: 22222222222 (index on people list: 2);
+				beginning of rent: 1.1.2000, end of rent: 1.11.2000;
+				Co-tenants:
+				99999999999 (index on people list: 9)
+			-Apartment 0-0-0:
+				volume: 430.0, tenant PESEL: 00000000000 (index on people list: 0);
+				beginning of rent: 1.1.2000, end of rent: 3.1.2000;
+				No co-tenants.
+		* Block of flats #1, Tobiasz:
+			-Apartment 0-1-4:
+				volume: 222.0, tenant PESEL: 99999999999 (index on people list: 9);
+				beginning of rent: 1.1.1999, end of rent: 19.12.1999;
+				Co-tenants:
+				55555555555 (index on people list: 5)
+			-Apartment 0-1-3:
+				volume: 576.0, tenant PESEL: 88888888888 (index on people list: 8);
+				beginning of rent: 1.1.1999, end of rent: 6.12.1999;
+				Co-tenants:
+				55555555555 (index on people list: 5)
+			-Apartment 0-1-0:
+				volume: 580.0, tenant PESEL: 55555555555 (index on people list: 5);
+				beginning of rent: 1.1.2000, end of rent: 1.11.2003;
+				No co-tenants.
+			-Apartment 0-1-1:
+				volume: 716.0, tenant PESEL: 66666666666 (index on people list: 6);
+				beginning of rent: 1.1.2000, end of rent: 1.1.2003;
+				No co-tenants.
+			-Apartment 0-1-2:
+				volume: 881.0, tenant PESEL: 77777777777 (index on people list: 7);
+				beginning of rent: 1.1.1999, end of rent: 29.12.1999;
+				Co-tenants:
+				66666666666 (index on people list: 6)
+			-Apartment 0-1-5:
+				volume: 1256.0, unoccupied;
+
+	PARKING SPACES:
+			-PS 0-1:
+				volume: 28.1, tenant PESEL: 11111111111 (index on people list: 1);
+				beginning of rent: 1.1.2000, end of rent: 1.3.2000;
+				Things stored on this parking space (total volume: 28.0):
+				0. Item -- Kartonowe pudlo o wymiarach 4x3x2:
+					Volume: 24.0;
+				1. Motorbike -- Superszybkismigaczladowy 8911.7:
+					Volume: 4.0;
+					Engine volume: 0.125;
+					Engine type: Silnik dwusuwowy;
+					Weight: 25.0;
+					Does it come with a basket: no;
+			-PS 0-5:
+				volume: 30.0, tenant PESEL: 14131211109 (index on people list: 14);
+				beginning of rent: 1.1.2000, end of rent: 1.2.2002;
+				Things stored on this parking space (total volume: 23.0):
+				0. Off-Road Car -- Tayato Land Surfer:
+					Volume: 23.0;
+					Engine volume: 4.0;
+					Engine type: v6;
+					Weight: 1500.0;
+					Door number: 4;
+					VIN: 0001;
+					Wading depth: 1.1;
+			-PS 0-4:
+				volume: 35.0, tenant PESEL: 14131211109 (index on people list: 14);
+				beginning of rent: 1.1.2000, end of rent: 1.2.2002;
+				Things stored on this parking space (total volume: 20.0):
+				0. Passenger Car -- Superautko Gold:
+					Volume: 20.0;
+					Engine volume: 2.0;
+					Engine type: i4;
+					Weight: 1300.0;
+					Door number: 3;
+					VIN: 0000;
+					Body type: hatch;
+			-PS 0-3:
+				volume: 40.0, tenant PESEL: 14131211109 (index on people list: 14);
+				beginning of rent: 1.1.2000, end of rent: 1.2.2002;
+				Things stored on this parking space (total volume: 36.0):
+				0. Amphibious Vehicle -- Superszybkismigaczwodnoladowy 8911.5:
+					Volume: 36.0;
+					Engine volume: 10.0;
+					Engine type: V12;
+					Weight: 6000.0;
+					Armour thickness: 30.0;
+			-PS 0-2:
+				volume: 45.0, tenant PESEL: 14131211109 (index on people list: 14);
+				beginning of rent: 1.1.2000, end of rent: 1.2.2002;
+				Things stored on this parking space (total volume: 40.0):
+				0. Boat -- Superszybkismigaczwodny 8911.6:
+					Volume: 40.0;
+					Engine volume: 6.0;
+					Engine type: V8;
+					Weight: 4000.0;
+					Buoyancy: 3000.0;
+			-PS 0-0:
+				volume: 50.0, tenant PESEL: 00000000000 (index on people list: 0);
+				beginning of rent: 1.1.2000, end of rent: 1.4.2003;
+				Things stored on this parking space (total volume: 6.0):
+				0. Item -- Stara lodowka:
+					Volume: 2.5;
+				1. Item -- Nowa lodowka:
+					Volume: 2.5;
+				2. Item -- Stary telewizor:
+					Volume: 1.0;
+-> SUBDIVISION #1, Dominika:
+		* Block of flats #0, Tytus:
+			-Apartment 1-0-0:
+				volume: 3000.0, tenant PESEL: 66666666666 (index on people list: 6);
+				beginning of rent: 1.1.2000, end of rent: 1.9.2001;
+				No co-tenants.
+
+	PARKING SPACES:
+			-PS 1-0:
+				volume: 44.8, tenant PESEL: 66666666666 (index on people list: 6);
+				beginning of rent: 1.1.2000, end of rent: 1.5.2003;
+				Things stored on this parking space (total volume: 5.0):
+				0. Item -- drabina:
+					Volume: 5.0;
+
+
+PEOPLE:
+
+Person 0. Klara Rybner:
+		PESEL: 00000000000;
+		Date of birth: 22.10.1999;
+		Adress: Przyjemna 9, Zieleniec;
+		No tenant letters;
+		IDs of rented spaces:
+			* 0-0-0;
+			* 0-0;
+		No occupied spaces;
+Person 1. Adam Nowak:
+		PESEL: 11111111111;
+		Date of birth: 11.11.1991;
+		Adress: Rakowiecka 13, Warszawa;
+		No tenant letters;
+		IDs of rented spaces:
+			* 0-0-1;
+			* 0-1;
+		No occupied spaces;
+Person 2. Bartosz Kowalski:
+		PESEL: 22222222222;
+		Date of birth: 21.10.1993;
+		Adress: Marszalkowska 8, Warszawa;
+		No tenant letters;
+		IDs of rented spaces:
+			* 0-0-2;
+		No occupied spaces;
+Person 3. Maciej Orlowski:
+		PESEL: 33333333333;
+		Date of birth: 1.9.1987;
+		Adress: Koszykowa 3, Warszawa;
+		No tenant letters;
+		IDs of rented spaces:
+			* 0-0-3;
+		No occupied spaces;
+Person 4. Piotr Szczypak:
+		PESEL: 44444444444;
+		Date of birth: 3.8.2000;
+		Adress: Kasztanowa 7, Krakow;
+		No tenant letters;
+		IDs of rented spaces:
+			* 0-0-4;
+		No occupied spaces;
+Person 5. Tymon Oska:
+		PESEL: 55555555555;
+		Date of birth: 17.7.1988;
+		Adress: Terlecka 311, Krakow;
+		No tenant letters;
+		IDs of rented spaces:
+			* 0-1-0;
+		IDs of occupied spaces:
+			* 0-1-4;
+			* 0-1-3;
+Person 6. Szymon Raczkiewicz:
+		PESEL: 66666666666;
+		Date of birth: 28.6.1975;
+		Adress: Mala 13, Poznan;
+		No tenant letters;
+		IDs of rented spaces:
+			* 0-1-1;
+			* 1-0-0;
+			* 1-0;
+		IDs of occupied spaces:
+			* 0-1-2;
+			* 0-0-1;
+Person 7. Filip Kaczynski:
+		PESEL: 77777777777;
+		Date of birth: 7.5.1949;
+		Adress: Znajoma 5, Poznan;
+		Tenant letters:
+			-> SpaceID: 0-1-2, Date of issue: 30.12.1999, Last payment date: 29.1.2000, Currently active;
+		IDs of rented spaces:
+			* 0-1-2;
+		No occupied spaces;
+Person 8. Edyta Maklowicz:
+		PESEL: 88888888888;
+		Date of birth: 12.4.1965;
+		Adress: Taka 1, Radom;
+		Tenant letters:
+			-> SpaceID: 0-1-3, Date of issue: 7.12.1999, Last payment date: 6.1.2000, Currently active;
+		IDs of rented spaces:
+			* 0-1-3;
+		No occupied spaces;
+Person 9. Wanda Kubica:
+		PESEL: 99999999999;
+		Date of birth: 13.3.1980;
+		Adress: Owaka 10, Radom;
+		Tenant letters:
+			-> SpaceID: 0-1-4, Date of issue: 20.12.1999, Last payment date: 19.1.2000, Currently active;
+		IDs of rented spaces:
+			* 0-1-4;
+		IDs of occupied spaces:
+			* 0-0-2;
+Person 10. Anna Weslowoska:
+		PESEL: 10987654321;
+		Date of birth: 29.2.1996;
+		Adress: Lotnikow 176, Lodz;
+		No tenant letters;
+		No rented spaces;
+		No occupied spaces;
+Person 11. Maria Pazdzioch:
+		PESEL: 11109876543;
+		Date of birth: 5.1.1981;
+		Adress: Jedenasta 11, Lodz;
+		No tenant letters;
+		No rented spaces;
+		No occupied spaces;
+Person 12. Natalia Kosa:
+		PESEL: 12111098765;
+		Date of birth: 4.12.1966;
+		Adress: Ukryta 28, Sosonowiec;
+		No tenant letters;
+		No rented spaces;
+		No occupied spaces;
+Person 13. Gabriela Kwasniewska:
+		PESEL: 13121110987;
+		Date of birth: 10.11.2002;
+		Adress: Widoczna Golym Okiem 44, Sosnowiec;
+		No tenant letters;
+		No rented spaces;
+		No occupied spaces;
+Person 14. Sara Sledz:
+		PESEL: 14131211109;
+		Date of birth: 13.11.1989;
+		Adress: Tysiaca polskich znakow 1000, Zieleniec;
+		No tenant letters;
+		IDs of rented spaces:
+			* 0-2;
+			* 0-3;
+			* 0-4;
+			* 0-5;
+		No occupied spaces;
+
+
